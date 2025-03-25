@@ -1,0 +1,23 @@
+unique_items:
+  aquamarine:
+    material: "LAPIS_LAZULI"
+    item_name: "§bアクアマリン"
+    lore:
+      - §7食べられないよ
+      - §7美しく輝く
+    custom_model_data: 0
+
+mob_extra_drops:
+  zombie:
+    aquamarine: 0.1
+
+ore_extra_drops:
+  diamond_ore:
+    aquamarine: 0.2
+
+distance_difficulty_multiplier: 0.01
+difficulty_mob_multiplier: 1.0
+difficulty_loot_multiplier: 1.0
+applied_worlds:
+  - world
+blood_moon_rate: 0.1
